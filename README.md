@@ -1,8 +1,8 @@
 Current state: enemies drop intuitive minecraft loot (undeads drop rotten flesh/bone, storm atronach drops redstone, wolves drop leather, etc) with the possibility of enchanted items being dropped by higher level enemies.
 best paired with a mod that lets the player level up by sleeping (because we cannot get into the skyrim tab menu)
 
-v1.01 fixes: meat drops buffed and made more immersive, enchanted book drops fixed, enchanted weapon/armor drop chances increased
-
+v1.0.1 fixes: meat drops buffed and made more immersive, enchanted book drops fixed, enchanted weapon/armor drop chances increased
+v1.0.2 improvement: items now drop like in minecraft, rather than being placed directly into the inventory.
 
 
 # SkyCraft Drops – Loot Reference
