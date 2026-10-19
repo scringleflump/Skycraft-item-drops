@@ -5,6 +5,8 @@ v1.0.1 fixes: meat drops buffed and made more immersive, enchanted book drops fi
 
 v1.0.2 improvement: items now drop like in minecraft, rather than being placed directly into the inventory.
 
+v1.0.3 additions: added armor sets for each of the daedric princes, and the 9 divine (named vanilla armor with various effects)
+
 
 # SkyCraft Drops – Loot Reference
 
@@ -197,3 +199,12 @@ Alphabetical list of Minecraft items and which Skyrim enemies drop them.
 
 ### Golden Apple / Enchanted Golden Apple
 - Spriggans (Golden Apple 25%, Enchanted Golden Apple 5%)
+
+
+
+DAEDRIC/AEDRIC/TALOS armor sets:
+
+killing certain enemies has a 2% chance to get you some exceptionally powerful armor (little gifts from the daedra and 9 divine for killing the right things in their name)
+i won't spoil them all, but as an example, The Hircine set has a 2% chance to drop from any animal.
+
+Each set comes with a passive effect that is always on, and either an on kill effect (kill enemy to get effect) or an on hit effect (take a hit, something happens)
