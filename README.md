@@ -7,6 +7,8 @@ v1.0.2 improvement: items now drop like in minecraft, rather than being placed d
 
 v1.0.3 additions: added armor sets for each of the daedric princes, and the 9 divine (named vanilla armor with various effects)
 
+v1.0.4 additions: trading with "merchant" type npcs (general store, blacksmith, food seller, book seller, etc) is now possible. they accept emeralds for goods, and you can sell them appropriate goods for emeralds.
+
 
 # SkyCraft Drops – Loot Reference
 
