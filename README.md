@@ -9,6 +9,7 @@ v1.0.3 additions: added armor sets for each of the daedric princes, and the 9 di
 
 v1.0.4 additions: trading with "merchant" type npcs (general store, blacksmith, food seller, book seller, etc) is now possible. they accept emeralds for goods, and you can sell them appropriate goods for emeralds.
 
+v1.0.5 additions: new "Concentrated" potions made by adding 9 identical potions/splash_potons/lingering_potions to a barrel with a beacon placed on top. they are infinite use, have a short cooldown, and cost 2 hunger to use.
 
 # SkyCraft Drops – Loot Reference
 
